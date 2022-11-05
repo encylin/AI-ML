@@ -1,0 +1,5 @@
+def predict_output(feature_matrix, weights):
+    # assume feature_matrix is a numpy matrix containing the features as columns and weights is a corresponding numpy array
+    # create the predictions vector by using np.dot()
+    predictions=np.dot(feature_matrix,weights)
+    return(predictions)
