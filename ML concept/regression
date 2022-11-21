@@ -1,6 +1,20 @@
 # case:
-- house price
+- house price / predict salary / stock prediction / tweet polularity/ smart house
 
 # concept:
 x -> features, covariate, predictor
 Y - > observation, response
+intercept
+slope/weight
+
+# Linear regression
+## to select model
+### RSS: Residual of sum of squares
+
+#Models: 
+still call linear regression: because W is not squared - quadratic function
+high order polynomial
+
+Evaluation: training+test  
+
+Adding features
