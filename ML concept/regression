@@ -1,3 +1,6 @@
 # case:
 - house price
 
+# concept:
+x -> features, covariate, predictor
+Y - > observation, response
