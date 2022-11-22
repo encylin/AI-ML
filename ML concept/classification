@@ -5,4 +5,9 @@ problems:
   single word not enough (GOOD vs NOT GOOD) => more elaborate features
 classification error
   error=#mistakes/total test sentenses
-  accuracy
+  accuracy = #correct/total test sentenses
+term:
+  majority class prediction
+  false postive, false negative
+  confusion matrices also apply to multiclass classification
+class probabilities
