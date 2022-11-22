@@ -5,3 +5,4 @@ problems:
   single word not enough (GOOD vs NOT GOOD) => more elaborate features
 classification error
   error=#mistakes/total test sentenses
+  accuracy
