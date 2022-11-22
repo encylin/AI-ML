@@ -1,0 +1,7 @@
+analyzing sentiment, web page: more categories, spam filtering, image classification, personalized medical diagnosis, reading mind
+linear classifier (weighted count of words in sentence)
+problems:
+  how to get list positive/negative, degrees of setiment => linear classifier
+  single word not enough (GOOD vs NOT GOOD) => more elaborate features
+classification error
+  error=#mistakes/total test sentenses
