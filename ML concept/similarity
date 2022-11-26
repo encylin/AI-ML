@@ -1,2 +1,17 @@
 similarity
 bag of word / bias to long word solution normalize 
+emphasize important words - rare words,  important word- common locally , rare globally ,  trade off local frequency and global rarity
+tf-idf (term frequency-inverse document frequency)  idf=log (#doc/(1+#doc using word)),  td*idf
+specify: Distance metric Output: set of most similar articles
+cluster - multiple classification (input:  no label, docs as vectors, output: cluster labels)
+what defines a cluster:  center & shape 
+k-means algorithm:
+  initialize cluster centers
+  assign observations to closest cluster center
+  revise cluster centers as mean of assigned observations
+
+clustering images
+group patients by medical diverse
+product recommendation on Amazon
+structure web search results
+similar neighborhood
