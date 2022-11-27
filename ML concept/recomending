@@ -1,3 +1,5 @@
 recommending product
 personalization: connects users & items
 Netflix & Amazon & Music & Friend , drug-target interactions
+solution0: popularity (limitation: personalization)
+solution1: classification model. + presonalized, context, limited user history  - features not be available, worse perform collaborative filterring
