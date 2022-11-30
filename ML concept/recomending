@@ -5,5 +5,12 @@ solution0: popularity (limitation: personalization)
 solution1: classification model. + presonalized, context, limited user history  - features not be available, worse perform collaborative filterring  - must be normalized
   normalize by Jaccard similarity. 
   no history? (weighted) Average of purchased items, but still limit no time and date, not personal information (age, gendle), feature of the products, cold start problem
-Matrix completion task 
+Matrix completion task + user infor. - cold start
+combining features and discovered topics
+blending models
+
+performance metric of recommender system
+ precision #liked&shown/shown   recall #liked&shown/#liked
+ for a given precision, want recall as large as possible (vice versa), large area under the curve (AUC). Another: set desired recall and maxmize precision(precision at k)
+ 
 
