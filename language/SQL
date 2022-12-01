@@ -1,0 +1,6 @@
+SQL - handling structure data
+UPDATE clause {UPDATE country
+SET clause {SET population=population+1  expression
+WHERE clause {WHERE name='USA'  predicate
+
+MySQL IBMDB2  PostgreSQL SQLite MariaDB 
